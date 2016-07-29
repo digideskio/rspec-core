@@ -3,6 +3,7 @@
 
 language: ruby
 sudo: false
+dist: trusty
 email: false
 cache:
   directories:
